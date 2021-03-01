@@ -1,3 +1,3 @@
 # Estudos
-Primeiro Projeto da Udemy 
-"Universidade Uni"
+Projeto da Udemy 
+
